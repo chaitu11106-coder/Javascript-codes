@@ -10,4 +10,3 @@ let city //undefined
 //symbol=====used when we want unique
 //object
 console.log(typeof "shri");
-

@@ -12,4 +12,3 @@ console.log(gamenew.trim())//cuts the extra space before or after the string
 
 //READ DOCUMENTATION AND FIND ALL METHODS -----HW
 
-

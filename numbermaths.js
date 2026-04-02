@@ -7,3 +7,5 @@ console.log(balance.toPrecision(2));
 const hunderedsssss=1000000
 console.log(typeof hunderedsssss)
 console.log(hunderedsssss.toLocaleString('en-IN'));
+/////////Maths+++++++++++--------
+
