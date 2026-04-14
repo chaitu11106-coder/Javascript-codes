@@ -1,0 +1,65 @@
+
+body {
+    background-color: #f3e8ff; /* light violet */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading */
+h1 {
+    color: #6a0dad;
+}
+
+
+#income, #expense, #balance {
+    margin: 20px auto;
+    padding: 15px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+
+input {
+    padding: 8px;
+    width: 80%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+#income button {
+    background-color: #22c55e; /* green */
+    color: white;
+}
+
+
+#expense button {
+    background-color: #ef4444; /* red */
+    color: white;
+}
+
+
+#balance {
+    background-color: #ede9fe; /* stronger violet */
+}
+
+
+#balanceValue {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4c1d95;
+}
